@@ -1,0 +1,12 @@
+server:
+  port: 1148
+spring:
+  servlet:
+    multipart:
+      max-request-size: 5GB  # 上传文件总的最大值 默认10MB
+      max-file-size: 1GB #单个文件最大值 默认10MB
+socket:
+  port: 1149
+file:
+  tempFilePath: D:\\temps\\
+  tempFileCheckMs: 86400000 # 24小时的毫秒数 86400000 1分钟的毫秒数 60000

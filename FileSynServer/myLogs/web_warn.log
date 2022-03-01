@@ -1,0 +1,1 @@
+2022-02-25 22:05:57.241 [restartedMain] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)

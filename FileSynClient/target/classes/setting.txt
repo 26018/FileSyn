@@ -1,0 +1,3 @@
+filePath::D:\synfile\
+ip::fixyou.top
+serverPort::1149

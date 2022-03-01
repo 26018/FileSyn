@@ -1,0 +1,118 @@
+2022-03-01 17:12:48.102 [restartedMain] INFO  com.moon.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_322 on MoonLight with PID 15696 (C:\Users\MoonLight\Desktop\FileSynServer\target\classes started by MoonLight in C:\Users\MoonLight\Desktop\FileSynServer)
+2022-03-01 17:12:48.102 [restartedMain] INFO  com.moon.demo.DemoApplication - The following profiles are active: dev
+2022-03-01 17:12:48.180 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-03-01 17:12:48.180 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-03-01 17:12:49.636 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 1148 (http)
+2022-03-01 17:12:49.651 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-1148"]
+2022-03-01 17:12:49.651 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-03-01 17:12:49.651 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-03-01 17:12:49.698 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-03-01 17:12:49.698 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1502 ms
+2022-03-01 17:12:49.995 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2022-03-01 17:12:50.104 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-03-01 17:12:50.104 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-1148"]
+2022-03-01 17:12:50.151 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 1148 (http) with context path ''
+2022-03-01 17:12:50.167 [restartedMain] INFO  com.moon.demo.DemoApplication - Started DemoApplication in 2.598 seconds (JVM running for 3.202)
+2022-03-01 17:12:50.167 [Thread-9] INFO  com.moon.demo.DemoApplication - file syn server running on 1149 port..
+2022-03-01 17:13:52.887 [http-nio-1148-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-01 17:13:52.887 [http-nio-1148-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-03-01 17:13:52.887 [http-nio-1148-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2022-03-01 17:14:04.247 [http-nio-1148-exec-3] INFO  com.moon.demo.controller.MainController - 16461260341538383127752280923489.jpg文件已保存至磁盘
+2022-03-01 17:14:19.964 [Thread-9] INFO  com.moon.demo.DemoApplication - /127.0.0.1已连接服务
+2022-03-01 17:14:20.167 [Thread-9] INFO  com.moon.demo.DemoApplication - 保存文件16461260341538383127752280923489.jpg共用时203ms
+2022-03-01 17:16:13.081 [restartedMain] INFO  com.moon.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_322 on MoonLight with PID 11412 (C:\Users\MoonLight\Desktop\FileSynServer\target\classes started by MoonLight in C:\Users\MoonLight\Desktop\FileSynServer)
+2022-03-01 17:16:13.081 [restartedMain] INFO  com.moon.demo.DemoApplication - The following profiles are active: dev
+2022-03-01 17:16:13.144 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-03-01 17:16:13.144 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-03-01 17:16:15.008 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 1148 (http)
+2022-03-01 17:16:15.023 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-1148"]
+2022-03-01 17:16:15.023 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-03-01 17:16:15.023 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-03-01 17:16:15.070 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-03-01 17:16:15.070 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1926 ms
+2022-03-01 17:16:15.367 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2022-03-01 17:16:15.476 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-03-01 17:16:15.492 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-1148"]
+2022-03-01 17:16:15.542 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 1148 (http) with context path ''
+2022-03-01 17:16:15.542 [restartedMain] INFO  com.moon.demo.DemoApplication - Started DemoApplication in 2.952 seconds (JVM running for 3.548)
+2022-03-01 17:16:15.558 [Thread-9] INFO  com.moon.demo.DemoApplication - file syn server running on 1149 port..
+2022-03-01 17:16:15.589 [Thread-9] INFO  com.moon.demo.DemoApplication - /127.0.0.1已连接服务
+2022-03-01 17:20:13.341 [restartedMain] INFO  com.moon.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_322 on MoonLight with PID 15656 (C:\Users\MoonLight\Desktop\FileSynServer\target\classes started by MoonLight in C:\Users\MoonLight\Desktop\FileSynServer)
+2022-03-01 17:20:13.341 [restartedMain] INFO  com.moon.demo.DemoApplication - The following profiles are active: dev
+2022-03-01 17:20:13.388 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-03-01 17:20:13.388 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-03-01 17:20:15.047 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 1148 (http)
+2022-03-01 17:20:15.062 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-1148"]
+2022-03-01 17:20:15.062 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-03-01 17:20:15.062 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-03-01 17:20:15.156 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-03-01 17:20:15.156 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1768 ms
+2022-03-01 17:20:15.595 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2022-03-01 17:20:15.720 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-03-01 17:20:15.735 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-1148"]
+2022-03-01 17:20:15.798 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 1148 (http) with context path ''
+2022-03-01 17:20:15.813 [restartedMain] INFO  com.moon.demo.DemoApplication - Started DemoApplication in 3.008 seconds (JVM running for 3.615)
+2022-03-01 17:20:15.813 [Thread-9] INFO  com.moon.demo.DemoApplication - file syn server running on 1149 port..
+2022-03-01 17:20:16.532 [Thread-9] INFO  com.moon.demo.DemoApplication - /127.0.0.1已连接服务
+2022-03-01 17:20:27.226 [http-nio-1148-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-01 17:20:27.226 [http-nio-1148-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-03-01 17:20:27.226 [http-nio-1148-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2022-03-01 17:20:27.697 [http-nio-1148-exec-1] INFO  com.moon.demo.controller.MainController - 16461260341538383127752280923489.jpg文件已保存至磁盘
+2022-03-01 17:20:27.884 [Thread-9] INFO  com.moon.demo.DemoApplication - /127.0.0.1保存文件16461260341538383127752280923489.jpg 共用时187ms
+2022-03-01 17:23:05.697 [restartedMain] INFO  com.moon.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_322 on MoonLight with PID 7904 (C:\Users\MoonLight\Desktop\FileSynServer\target\classes started by MoonLight in C:\Users\MoonLight\Desktop\FileSynServer)
+2022-03-01 17:23:05.697 [restartedMain] INFO  com.moon.demo.DemoApplication - The following profiles are active: dev
+2022-03-01 17:23:05.759 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-03-01 17:23:05.759 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-03-01 17:23:07.212 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 1148 (http)
+2022-03-01 17:23:07.228 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-1148"]
+2022-03-01 17:23:07.228 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-03-01 17:23:07.228 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-03-01 17:23:07.275 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-03-01 17:23:07.275 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1516 ms
+2022-03-01 17:23:07.526 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2022-03-01 17:23:07.668 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-03-01 17:23:07.668 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-1148"]
+2022-03-01 17:23:07.730 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 1148 (http) with context path ''
+2022-03-01 17:23:07.730 [restartedMain] INFO  com.moon.demo.DemoApplication - Started DemoApplication in 2.554 seconds (JVM running for 3.113)
+2022-03-01 17:23:07.746 [Thread-9] INFO  com.moon.demo.DemoApplication - file syn server running on 1149 port..
+2022-03-01 17:23:07.855 [Thread-9] INFO  com.moon.demo.DemoApplication - /127.0.0.1已连接服务
+2022-03-01 17:23:25.209 [http-nio-1148-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-01 17:23:25.209 [http-nio-1148-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-03-01 17:23:25.209 [http-nio-1148-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2022-03-01 17:23:25.850 [http-nio-1148-exec-1] INFO  com.moon.demo.controller.MainController - 16461260341538383127752280923489.jpg文件已保存至磁盘
+2022-03-01 17:23:26.022 [Thread-9] INFO  com.moon.demo.DemoApplication - /127.0.0.1接收文件16461260341538383127752280923489.jpg共用时172ms
+2022-03-01 19:16:21.536 [restartedMain] INFO  com.moon.demo.DemoApplication - Starting DemoApplication using Java 1.8.0_322 on MoonLight with PID 7044 (C:\Users\MoonLight\Desktop\FileSynServer\target\classes started by MoonLight in C:\Users\MoonLight\Desktop\FileSynServer)
+2022-03-01 19:16:21.536 [restartedMain] INFO  com.moon.demo.DemoApplication - The following profiles are active: dev
+2022-03-01 19:16:21.599 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-03-01 19:16:21.599 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-03-01 19:16:23.008 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 1148 (http)
+2022-03-01 19:16:23.008 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-1148"]
+2022-03-01 19:16:23.024 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-03-01 19:16:23.024 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-03-01 19:16:23.071 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-03-01 19:16:23.071 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1472 ms
+2022-03-01 19:16:23.352 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2022-03-01 19:16:23.446 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-03-01 19:16:23.461 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-1148"]
+2022-03-01 19:16:23.524 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 1148 (http) with context path ''
+2022-03-01 19:16:23.524 [restartedMain] INFO  com.moon.demo.DemoApplication - Started DemoApplication in 2.506 seconds (JVM running for 3.03)
+2022-03-01 19:16:23.524 [Thread-9] INFO  com.moon.demo.DemoApplication - file syn server running on 1149 port..
+2022-03-01 19:16:23.696 [Thread-9] INFO  com.moon.demo.DemoApplication - /127.0.0.1已连接服务
+2022-03-01 19:17:39.018 [http-nio-1148-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-01 19:17:39.018 [http-nio-1148-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-03-01 19:17:39.018 [http-nio-1148-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2022-03-01 19:17:47.644 [http-nio-1148-exec-3] INFO  com.moon.demo.controller.MainController - SKY_20220225_210028_.jpg文件已保存至磁盘
+2022-03-01 19:17:47.707 [Thread-9] INFO  com.moon.demo.DemoApplication - /127.0.0.1接收文件SKY_20220225_210028_.jpg共用时47ms
+2022-03-01 19:18:47.471 [http-nio-1148-exec-4] INFO  com.moon.demo.controller.MainController - SKY_20220225_192413_.mp4文件已保存至磁盘
+2022-03-01 19:19:01.222 [Thread-9] INFO  com.moon.demo.DemoApplication - /127.0.0.1已连接服务
+2022-03-01 19:19:03.615 [Thread-9] INFO  com.moon.demo.DemoApplication - /127.0.0.1接收文件SKY_20220225_192413_.mp4共用时2377ms
+2022-03-01 19:20:42.769 [main] INFO  com.moon.demo.DemoApplicationTests - Starting DemoApplicationTests using Java 1.8.0_322 on MoonLight with PID 14956 (started by MoonLight in C:\Users\MoonLight\Desktop\FileSynServer)
+2022-03-01 19:20:42.769 [main] INFO  com.moon.demo.DemoApplicationTests - The following profiles are active: dev
+2022-03-01 19:20:43.850 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2022-03-01 19:20:44.100 [main] INFO  com.moon.demo.DemoApplicationTests - Started DemoApplicationTests in 1.713 seconds (JVM running for 2.595)
+2022-03-01 19:20:44.100 [Thread-4] INFO  com.moon.demo.DemoApplication - file syn server running on 1149 port..
+2022-03-01 19:24:00.404 [main] INFO  com.moon.demo.DemoApplicationTests - Starting DemoApplicationTests using Java 1.8.0_322 on MoonLight with PID 15024 (started by MoonLight in C:\Users\MoonLight\Desktop\FileSynServer)
+2022-03-01 19:24:00.419 [main] INFO  com.moon.demo.DemoApplicationTests - The following profiles are active: prod
+2022-03-01 19:24:01.595 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2022-03-01 19:24:01.863 [main] INFO  com.moon.demo.DemoApplicationTests - Started DemoApplicationTests in 1.847 seconds (JVM running for 2.784)
+2022-03-01 19:24:01.863 [Thread-4] INFO  com.moon.demo.DemoApplication - file syn server running on 1149 port..
